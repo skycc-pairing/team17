@@ -1,2 +1,1 @@
-# team17
-SKYCC D팀
+# SKYCC D팀
